@@ -14,9 +14,8 @@
     flex-direction: column;
 }
 
-.workarea-container
+.chatarea-container
 {
-    background-color: aliceblue;
     flex: 0.7;
 }
 
@@ -106,5 +105,31 @@
 
 .con-lastMessage
 {
-    
+    font-family: "Segoe UI", Tahoma,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 0.75rem;
 }
+
+.chatarea-container
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.chatarea-header
+{
+    background-color: orange;
+}
+
+.messages-container
+{
+    background-color: aquamarine;
+    flex: 1;
+}
+
+.text-input-area
+{
+    background-color: yellow;
+}
+
+
+

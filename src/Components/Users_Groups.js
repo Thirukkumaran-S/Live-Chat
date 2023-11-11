@@ -9,7 +9,7 @@ function Users_Groups() {
     <div className="users_groups-container">
       <div className="ug-header">
       <img src={image} alt="Image" style={{height:"2rem", width:"2rem"}} />
-      <p className="ug-title">Online Users</p>
+      <p className="ug-title">Online User Groups</p>
       </div>
       <div className="sb-search">
         <IconButton>
